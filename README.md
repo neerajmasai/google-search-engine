@@ -1,5 +1,5 @@
 # How to run the project locally:
-- Paste the clone url in cli
+- Type the following in your terminal: git clone https://github.com/neerajmasai/google-search-engine.git
 - Type npm start to run locally
 
 # Objectives
