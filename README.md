@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/86408295/165893375-9f81c94f-7948-484a-8c1d-e304ce999e78.mp4
+
 # How to run the project locally:
 - Type the following in your terminal: git clone https://github.com/neerajmasai/google-search-engine.git
 - Type npm start to run locally
